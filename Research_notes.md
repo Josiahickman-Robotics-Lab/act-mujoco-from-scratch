@@ -6,5 +6,8 @@
 
 -Simpler to add then expected, mujoco is pretty cool. Camera on wrist done!
 
+2/5/2026
+-Successfully placed all cameras in mujoco xml file. Corrected orientations and positions.
+
 Next Step collect teleoperation data.
 Now since I don't have a real robot, all I can do is command the robot in sim, and collect data from that.
